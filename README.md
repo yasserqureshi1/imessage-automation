@@ -6,10 +6,7 @@ I am not responisible to the consequences of this script. Use this script at you
 
 ## Installation
 
-Install the dependencies using:
-```
-pip install -r requirements.txt
-```
+No external dependencies required.
 
 ## Usage
 
